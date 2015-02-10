@@ -8,3 +8,4 @@ utils.sub = function() {
 	console.log("this is sub");
 };
 
+utils.log = function() {};
